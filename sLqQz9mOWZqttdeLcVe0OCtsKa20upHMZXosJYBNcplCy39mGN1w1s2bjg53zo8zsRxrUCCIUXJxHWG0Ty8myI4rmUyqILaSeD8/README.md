@@ -1,4 +1,4 @@
-<h2><span style="color: #ff0000;"><strong>本博客不提供任何资源的下载！！对本产品的不提供任何帮助，本文提到的文件本博客皆为测试所用！不提供下载方式！！谢谢！</strong></span></h2>
+<h2><span style="color: #ff0000;"><strong>不提供任何资源的下载！！对本产品的不提供任何帮助，本文提到的文件本博客皆为测试所用！不提供下载方式！！谢谢！</strong></span></h2>
 <h1>①酸酸乳的windows客户端教程</h1>
 <h3>1、安装 .NET Framework</h3>
 <p>一般Windows 10 已经自带，不需要额外安装，如果您的系统版本略旧且无法打开软件，请点击<a href="https://www.microsoft.com/zh-tw/download/details.aspx?id=53345" target="_blank" rel="noopener">这里</a><br />适用于Windows 7 SP1、Windows 8.1、Windows Server 2008 R2 SP1、Windows Server 2012 及Windows Server 2012 R2 的Microsoft . NET Framework 4.6.2 (Web 安装程式)</p>
