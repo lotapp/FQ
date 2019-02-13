@@ -1,1 +1,1 @@
-<div class="wp-block-image"><figure class="aligncenter is-resized"><img src="https://cangshui.net/wp-content/uploads/2019/02/7447274.jpg" alt="世界和平" width="400" height="5698"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter is-resized"><img src="https://cangshui.net/wp-content/uploads/2019/02/7447274.jpg" alt="世界和平" width="200" height="5698"/></figure></div>
